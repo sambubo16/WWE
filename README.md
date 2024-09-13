@@ -5,19 +5,19 @@ WWE is also can be used for making a little GUI with Pure Batch.
 
 To create a blue box on 5 X, 5 Y, 10 width and 10 height we need to type command:
 
-`
+```
 echo=%\e%[48;5;27m
 call wwe 5 5 10 10 - - - 0
-`
+```
 
 Syntax of `WWE`:
 
-`
+```
 REM Set colors by ANSI Escape codes or RGB...
 echo=%\e%[48;5;27m
 REM Print box
 call wwe X Y Width Height - - - 0
-`
+```
 
 The `- - - 0` is need for executing the WWE.
 
