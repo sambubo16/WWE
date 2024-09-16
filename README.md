@@ -18,4 +18,5 @@ REM Create window
 call wwe X Y Width Height
 ```
 ![image](https://github.com/user-attachments/assets/a84082f9-9fae-4799-9ecd-3dd8de22a3c5)
+![image](https://github.com/user-attachments/assets/27e272c6-5d61-4d25-b373-084d8e6708f6)
 
